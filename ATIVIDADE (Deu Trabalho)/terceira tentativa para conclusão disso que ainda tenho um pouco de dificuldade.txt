@@ -1,0 +1,3 @@
+﻿"ATIVIDADE.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"ATIVIDADE.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\bin\Debug\ATIVIDADE.exe". Símbolos carregados.
+O programa "[3828] ATIVIDADE.exe" foi fechado com o código -1073741510 (0xc000013a).

@@ -1,0 +1,7 @@
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\bin\Debug\ATIVIDADE.exe.config
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\bin\Debug\ATIVIDADE.exe
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\bin\Debug\ATIVIDADE.pdb
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\obj\Debug\ATIVIDADE.csprojAssemblyReference.cache
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\obj\Debug\ATIVIDADE.exe
+C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\obj\Debug\ATIVIDADE.pdb

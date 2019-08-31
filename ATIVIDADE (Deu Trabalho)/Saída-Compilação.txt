@@ -1,0 +1,4 @@
+﻿1>------ Compilação iniciada: Projeto: ATIVIDADE, Configuração: Debug Any CPU ------
+1>C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\humano.cs(11,24,11,27): warning CS0169: O campo "Humano.cpf" nunca é usado
+1>  ATIVIDADE -> C:\Users\Solange\Documents\aqui\AtividadeUnidade2\ATIVIDADE\ATIVIDADE\bin\Debug\ATIVIDADE.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
